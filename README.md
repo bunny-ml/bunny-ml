@@ -1,10 +1,10 @@
-<h1>Hi 👋, I'm Abhishek</h1>
-<p>A passionate Computer Science Student from India</p>
 
-<img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWt1Y3c3NDBkYWpranJ1ejJ2bzZneDkyc2RyOTUzaGEzZzUzOGl6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="50%">
+
+<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqcWlhcGR6amRycWxpczNnZmhlcml5ZnEwYm9pY3RjazJncDVwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" height="50%">
 
 <br>
-
+<h1>Hi 👋, I'm Abhishek</h1>
+<p>A passionate Computer Science Student from India , I'm currently learning Data Science along with Software Development.... </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
