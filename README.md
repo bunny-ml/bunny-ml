@@ -30,7 +30,7 @@
 <p align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-chaudhary26&show_icons=true&locale=en&layout=compact" alt="abhishek-chaudhary26" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/buymeacoffee.com/abhishek.chaudhary">
+<a href="https://www.buymeacoffee.com/abhishek.chaudhary">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
