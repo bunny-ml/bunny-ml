@@ -27,7 +27,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>✒️ Recent Posts</h2>
 <ul>
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-chaudhary26&show_icons=true&locale=en&layout=compact" alt="abhishek-chaudhary26" /></p>
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunny-ml&show_icons=true&locale=en&layout=compact" alt="bunny-ml" /></p>
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/abhishek.chaudhary">
