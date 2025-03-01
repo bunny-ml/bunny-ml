@@ -1,6 +1,6 @@
 
 
-<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqcWlhcGR6amRycWxpczNnZmhlcml5ZnEwYm9pY3RjazJncDVwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="100%" height="50%">
+<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBza2I3ZGN0aXA0eXgydm0yY3lwc3RsNnQyYncxcjNjbHA2MTRlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="50%">
 
 <br>
 <h1>Hi 👋, I'm Abhishek</h1>
