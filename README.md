@@ -1,5 +1,3 @@
-
-
 <img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG80ZWNuZWVuYnYyNjJ6N21tMnFrdjhzNDJkMWpuNTBwbnkyZGtveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" height="50%">
 
 <br>
@@ -31,7 +29,7 @@
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/abhishek.chaudhary">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" target="_blank" alt="buymeacoffee" />
 </a>
 </p>
 </p>
