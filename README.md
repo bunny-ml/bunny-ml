@@ -1,4 +1,4 @@
-<img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJiZ2R2d3Fiem1oMW9sM2Jrd290cGJiOTQ2ZXF0dnpxbDhlaDMxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="50%" height="25%">
+<img align="center" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zldjd6eTFjOGhlcGs5dm50NDFpY3VuNTd5cTlnYXV1Mnd6Yml6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="100%" height="25%">
 
 <br>
 <h1>Hi 👋, I'm Abhishek</h1>
