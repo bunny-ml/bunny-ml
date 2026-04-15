@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋What's Up?</h1>
-I'm Abhishek - I'm cyber security intern and a developer i love to work on new technologies and try to understand them in depth...
+I'm Abhishek - I'm cyber security intern and a developer, i love to work on new technologies and try to understand them in depth...
 
 ###
 
