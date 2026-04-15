@@ -55,9 +55,9 @@ I'm Abhishek - I'm cyber security intern and a developer, i love to work on new 
 ###
 
 <div align="center">
-<a herf="https://www.linkedin.com/in/abhishek-chaudhary26/">
+<a href="https://www.linkedin.com/in/abhishek-chaudhary26/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-  <a herf="https://x.com/i_abhiii">
+  <a href="https://x.com/i_abhiii">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 
 </div>
